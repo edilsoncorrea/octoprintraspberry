@@ -9,9 +9,11 @@ Video detalhado do canal de Chris Riley sobre a instalação do Octoprint no Lin
 Atenção especial à descrição no video no Youtube. Há vários links para todas as ferramentas que são usadas no vídeo.
 
 Video sobre como instalar o BL Touch da Impressora: 
+
 [![BLtouch Bed Leveling Sensor - Everything Install - Chris's Basement](http://i3.ytimg.com/vi/p504oU-D6iE/hqdefault.jpg)](https://www.youtube.com/watch?v=p504oU-D6iE&list=RDCMUCqRiv7rQuxge63bqJ2hVNUQ&start_radio=1&rv=p504oU-D6iE&t=9)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fimVwRXarf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
