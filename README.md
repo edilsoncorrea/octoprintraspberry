@@ -9,6 +9,6 @@ Video detalhado do canal de Chris Riley sobre a instalação do Octoprint no Lin
 
 
 
-[![Chris's Basement](http://i3.ytimg.com/vi/fimVwRXarf4/hqdefault.jpg)](https://www.youtube.com/embed/fimVwRXarf4)
+Teste[![Chris's Basement](http://i3.ytimg.com/vi/fimVwRXarf4/hqdefault.jpg)](https://www.youtube.com/embed/fimVwRXarf4)
 
 
