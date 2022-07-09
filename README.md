@@ -4,8 +4,11 @@ Tutorial da comunidade do Octoprint bem detalhado sobre como instalar no Raspbia
 [Setting up OctoPrint on a Raspberry Pi running Raspberry Pi OS (Debian)](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspberry-pi-os-debian/2337)
 
 Video detalhado do canal de Chris Riley sobre a instalação do Octoprint no Linux:
-[![Octoprint On Linux - Install - How To - Chris's Basement](http://i3.ytimg.com/vi/fimVwRXarf4/hqdefault.jpg)](https://www.youtube.com/watch?v=fimVwRXarf4&t=331s)
+[![Octoprint On Linux - Install - How To - Chris's Basement](http://i3.ytimg.com/vi/fimVwRXarf4/hqdefault.jpg)](https://www.youtube.com/watch?v=fimVwRXarf4)
 
-[![Octoprint On Linux - Install - How To - Chris's Basement](http://i3.ytimg.com/vi/fimVwRXarf4/hqdefault.jpg)](https://www.youtube.com/embed/fimVwRXarf4)
+
+
+
+[![Chris's Basement](http://i3.ytimg.com/vi/fimVwRXarf4/hqdefault.jpg)](https://www.youtube.com/embed/fimVwRXarf4)
 
 
