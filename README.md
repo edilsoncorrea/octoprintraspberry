@@ -14,6 +14,9 @@ Video detalhado do canal de Chris Riley sobre a instalação do Octoprint no Lin
 
 Atenção especial à descrição no video no Youtube. Há vários links para todas as ferramentas que são usadas no vídeo.
 
+Tutorial completo da 3D Printscape com video. O video aponta para esse arquivo e o arquivo tem o link do video
+[Install Octoprint on Linux – Complete Guide!](https://3dprintscape.com/install-octoprint-on-linux/)
+
 
 ## Windows
 Tutorial da comunidade do Octoprint sobre a instalação no Windows: [Setting up OctoPrint on Windows](https://community.octoprint.org/t/setting-up-octoprint-on-windows/383)
