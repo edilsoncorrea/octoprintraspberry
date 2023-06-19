@@ -21,6 +21,9 @@ Tutorial completo da 3D Printscape com video. O video aponta para esse arquivo e
 [Install Octoprint on Linux – Complete Guide!](https://3dprintscape.com/install-octoprint-on-linux/)
 
 
+Video ótimo sobre o Rescuezila: (https://www.youtube.com/watch?v=NvZa_PsKjLU&t=672s)
+
+
 ## Windows
 Tutorial da comunidade do Octoprint sobre a instalação no Windows: [Setting up OctoPrint on Windows](https://community.octoprint.org/t/setting-up-octoprint-on-windows/383)
 
