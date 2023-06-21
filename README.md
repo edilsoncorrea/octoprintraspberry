@@ -6,6 +6,8 @@ Tutorial da comunidade do Octoprint bem detalhado sobre como instalar no Raspbia
 Atentar para a necessidade de alterar a permissão do arquivo /etc/systemd/system/octoprint.service com chmod +x .
 Atentar ainda que o arquivo tem um atributo para o usuário e que ele tem que ser o usuário da instalação do Octoprint
 
+[Install Octoprint on Linux – Complete Guide! - Detalhamento para instalar a câmera](https://3dprintscape.com/install-octoprint-on-linux/)
+
 
 Tutorial sobre como instalar o Octoprint diretamente a partir da imagem do Raspi OS com a imagem do Octopi embutida:
 [How to setup OctoPrint! + best plugin recommendations](https://youtu.be/HBd0olxI-No?t=374)
