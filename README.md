@@ -1,4 +1,4 @@
-## Tutorial sobre como instalar o Octoprint no Raspberry
+## Tutorial sobre como instalar o Octoprint no Raspberry e no Linux Debian
 
 ## Linux
 Tutorial da comunidade do Octoprint bem detalhado sobre como instalar no Raspbian. Este tutorial discorre sobre duas formas de instalar. A primeira refere-se à instalação utilizando uma imagem a ser colocada num cartão SD. A segunda é uma instalação a partir de um Linux, com criação do ambiente virtual, instalação do Python e usando pip:
