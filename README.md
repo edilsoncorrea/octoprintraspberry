@@ -52,7 +52,7 @@ cd Python-3.9.9
 ./configure --enable-optimizations
 ````
 
-#### Trique nproc para o número de processadores a serem utilizados na compilação
+#### Troque nproc para o número de processadores a serem utilizados na compilação
 ````
 make -j$(nproc)
 ````
@@ -68,7 +68,7 @@ sudo make install
 ````
 
 ````
-python3.7 --version
+python3.9 --version
 ````
 
 
