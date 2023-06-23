@@ -44,8 +44,11 @@ sudo apt install build-essential libssl-dev zlib1g-dev libncurses5-dev libncurse
 ````
 wget https://www.python.org/ftp/python/3.7.12/Python-3.9.9.tar.xz
 ````
+
+````
 tar -xf Python-3.9.9.tar.xz
 ````
+
 ````
 cd Python-3.9.9
 ````
