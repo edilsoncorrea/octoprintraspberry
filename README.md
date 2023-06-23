@@ -36,38 +36,33 @@ sudo apt install python3-pip
 ````
 sudo apt remove python3.6
 ````
-
 ````
 sudo apt install build-essential libssl-dev zlib1g-dev libncurses5-dev libncursesw5-dev libreadline-dev libsqlite3-dev libgdbm-dev libdb5.3-dev libbz2-dev libexpat1-dev liblzma-dev libffi-dev tk-dev
 ````
-
 ````
-wget https://www.python.org/ftp/python/3.7.12/Python-3.9.9.tar.xz
+wget https://www.python.org/ftp/python/3.9.9/Python-3.9.9.tar.xz
 ````
-
 ````
 tar -xf Python-3.9.9.tar.xz
 ````
-
 ````
 cd Python-3.9.9
 ````
-
 ````
 ./configure --enable-optimizations
 ````
 
+#### Trique nproc para o número de processadores a serem utilizados na compilação
 ````
 make -j$(nproc)
 ````
 
-
-
+#### Instalar mantendo a versão nativa
 ````
 sudo make altinstall
 ````
 
-### ou se quiser subressvrever a versão nativa
+#### Instalar subressvrevendo a versão nativa
 ````
 sudo make install
 ````
